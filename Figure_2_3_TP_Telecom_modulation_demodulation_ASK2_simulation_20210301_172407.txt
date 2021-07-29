@@ -1,0 +1,8 @@
+=== Simulation (Elapsed: 1 sec) ===
+    Warning:'Output Port 2' of 'Figure_2_3_TP_Telecom_modulation_demodulation_ASK2/Manchester3/Demux' is not connected.
+    Warning:'Output Port 2' of 'Figure_2_3_TP_Telecom_modulation_demodulation_ASK2/Manchester2/Demux' is not connected.
+    Warning:Inconsistent sample times. Sample time (0.001) of signal driving 'Input Port 2' of 'Figure_2_3_TP_Telecom_modulation_demodulation_ASK2/Error Rate Calculation' differs from the expected sample time (1) at this input port.
+    Error:An error occurred while running the simulation and the simulation was terminated
+    Caused by:
+        Error in 'Figure_2_3_TP_Telecom_modulation_demodulation_ASK2/Bit to Integer
+Converter1 ': Input must be 0 or 1.
